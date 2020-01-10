@@ -33,6 +33,3 @@ if(isset($_SESSION['user_id'])!="") {
     mysqli_close($conn);
 }
 ?>
-
-
-?>
